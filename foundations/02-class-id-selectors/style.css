@@ -10,7 +10,7 @@
     font-size: 36px;
 }
 
-.class.cooler-class {
+.class, .cooler-class {
     font-size: 24px;
 }
 
